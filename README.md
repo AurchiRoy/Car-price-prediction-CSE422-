@@ -1,0 +1,3 @@
+# Description
+
+The Ford Car Price Prediction project is designed to estimate the prices of Ford cars using machine learning models. By analyzing a dataset that includes various features related to car specifications, the project employs techniques such as data cleaning, feature scaling, and one-hot encoding to prepare the data for accurate predictions. Different regression models are tested to identify the most effective approach for predicting car prices, with performance metrics like Mean Squared Error guiding model evaluation. This project highlights the application of data preprocessing and predictive modeling to provide insights into the factors influencing car prices, making it a valuable tool for automotive pricing analysis.
